@@ -1,5 +1,7 @@
 services:
   - type: web
-    env: python
     name: yuki-youtube
+    env: python
     startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"
+    region: singapore
+    plan: free
