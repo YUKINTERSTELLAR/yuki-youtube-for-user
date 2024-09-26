@@ -4,5 +4,7 @@ Yuki-Youtubeのプロキシです。
 注 現在動作しません
 
 Detaのdeployボタン  
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/mochidukiyukimi/yuki-youtube-for-user)  
 
+<a href="https://render.com/deploy?repo=https://github.com/YUKINTERSTELLAR/yuki-youtube-for-user">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
